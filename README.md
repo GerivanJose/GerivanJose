@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GerivanJose;
 - 👀 I’m interested in God, Family, job, Games, books;
-- 🌱 I’m currently learning JavaScript;
+- 🌱 I’m currently learning PHP and JavaScript;
 - 💞️ I’m looking to collaborate on Everything i can;
 - 📫 How to reach me: Whatsapp("85992193415");
 
